@@ -1,5 +1,4 @@
-﻿#NoEnv
-SetWorkingDir, %A_ScriptDir%
+﻿#Requires AutoHotKey v1.1
 
 ; Log all keypresses
 #InstallKeybdHook

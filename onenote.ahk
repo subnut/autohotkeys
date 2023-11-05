@@ -1,5 +1,4 @@
-#include lib/common.ahk
-
+#Requires AutoHotKey v1.1
 #SingleInstance Force
 SetTitleMatchMode 3
 delay = 100
